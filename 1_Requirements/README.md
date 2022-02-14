@@ -36,6 +36,8 @@ Contact Management System is built in C. It is similar to contact manager in cel
 
      Due to leakage of contact password, fraud can take place easily
 
+# 4W's and 1H's     
+
 
 
         
