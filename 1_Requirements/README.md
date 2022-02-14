@@ -13,3 +13,9 @@ Contact Management System is built in C. It is similar to contact manager in cel
 4.Edit contacts: edit information given while adding the contacts – name, phone number, address, and email
 
 5.Delete contacts: deletes contacts from file
+
+# SWOT ANALYSIS
+
+1.STRENGTH
+
+      
