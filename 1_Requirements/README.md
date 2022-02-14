@@ -19,7 +19,9 @@ Contact Management System is built in C. It is similar to contact manager in cel
 1.STRENGTH
 
      -->Its main function is tracking contact data.
+
      -->Show the information and description of the contact.
+     
      -->Contact Management System keeps the history of past conversations calls.
 
  2.WEAKNESS  
