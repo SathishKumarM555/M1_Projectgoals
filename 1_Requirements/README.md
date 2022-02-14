@@ -34,9 +34,29 @@ Contact Management System is built in C. It is similar to contact manager in cel
 
 4.THREADS
 
-     - Due to leakage of contact password, fraud can take place easily
+     - Due to leakage of contact password, fraud can take place easily.
 
 # 4W's and 1H's     
+
+1.WHO
+  
+     - Everyone can manage the contacts data of add contact,edit,delete and see the history of conversation.
+
+2.WHAT
+
+     - Its made for store contacts and edit contacts. 
+
+3.WHERE
+
+    - The user can access the contact management system using any C compiler.  
+
+4.WHY 
+
+     - This application helps the user to add contacts,delete and edit contact.
+
+5.HOW
+
+    -The implementation of this application is done using C programming language.             
 
 
 
