@@ -56,7 +56,10 @@ Contact Management System is built in C. It is similar to contact manager in cel
 
 5.HOW
 
-    -The implementation of this application is done using C programming language.             
+    -The implementation of this application is done using C programming language.
+
+
+# DETAIL REQUIREMENTS:                 
 
 
 
