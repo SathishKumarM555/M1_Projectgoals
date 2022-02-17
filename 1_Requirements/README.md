@@ -68,7 +68,7 @@ Contact Management System is built in C. It is similar to contact manager in cel
 
 - Low Level Requirements:
   
-     
+     <img width="548" alt="Low" src="https://user-images.githubusercontent.com/98905874/154549625-e2e1ead4-fcfa-48c7-b8b1-b7573d84c793.png">
 
 
 
