@@ -1,5 +1,7 @@
 # M1_Projectgoals
 
+A simple code in c to maintain contact management system
+
 # Code Quality
 
   <img width="113" alt="code quality" src="https://user-images.githubusercontent.com/98905874/154613518-8113d962-e821-4fbf-8100-15c8c36cfcc4.png">
